@@ -1,0 +1,11 @@
+C:\Users\Ozzy Store\source\repos\Module_Nastya\bin\Debug\netcoreapp3.1\Module_Nastya.exe
+C:\Users\Ozzy Store\source\repos\Module_Nastya\bin\Debug\netcoreapp3.1\Module_Nastya.deps.json
+C:\Users\Ozzy Store\source\repos\Module_Nastya\bin\Debug\netcoreapp3.1\Module_Nastya.runtimeconfig.json
+C:\Users\Ozzy Store\source\repos\Module_Nastya\bin\Debug\netcoreapp3.1\Module_Nastya.runtimeconfig.dev.json
+C:\Users\Ozzy Store\source\repos\Module_Nastya\bin\Debug\netcoreapp3.1\Module_Nastya.dll
+C:\Users\Ozzy Store\source\repos\Module_Nastya\bin\Debug\netcoreapp3.1\Module_Nastya.pdb
+C:\Users\Ozzy Store\source\repos\Module_Nastya\obj\Debug\netcoreapp3.1\Module_Nastya.csprojAssemblyReference.cache
+C:\Users\Ozzy Store\source\repos\Module_Nastya\obj\Debug\netcoreapp3.1\Module_Nastya.AssemblyInfoInputs.cache
+C:\Users\Ozzy Store\source\repos\Module_Nastya\obj\Debug\netcoreapp3.1\Module_Nastya.AssemblyInfo.cs
+C:\Users\Ozzy Store\source\repos\Module_Nastya\obj\Debug\netcoreapp3.1\Module_Nastya.dll
+C:\Users\Ozzy Store\source\repos\Module_Nastya\obj\Debug\netcoreapp3.1\Module_Nastya.pdb
